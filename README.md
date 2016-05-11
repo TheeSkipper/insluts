@@ -1,0 +1,2 @@
+# insluts
+insult generator test
